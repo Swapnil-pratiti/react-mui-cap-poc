@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">react-mui-cap-poc</string>
+    <string name="title_activity_main">react-mui-cap-poc</string>
+    <string name="package_name">com.react.mui</string>
+    <string name="custom_url_scheme">com.react.mui</string>
+</resources>
